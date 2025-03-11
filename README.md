@@ -18,7 +18,7 @@ The Flashcard App is designed to help users study and retain information efficie
 
 
 ## Key words:
-Flashcards, Study, Learn, Education, Memory, Knowledge, Review, Study App, Educational Tools
+Flashcards, Study, Learn, Education, Memory, Knowledge, Review, Study App, Educational Tools, Spaced Repetition, Medical, Vocabulary, Language learning, Recall, Practice
 
 ## Age group:
 4+ (Suitable for all ages)
