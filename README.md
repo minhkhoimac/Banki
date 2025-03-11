@@ -33,6 +33,16 @@ The app helps users of all ages and educational levels, from students to profess
 
 From a technical standpoint, Banki utilizes UserDefaults to store data locally and act as a context/ground truth for the application. This works for this simple implementation, but as the app scales up- and outward, a different implementation might be necessary to handle more card data. It comprises of a TabView with three tabs: a DecksView, StudyView, and UserView. DecksView allows users to add, delete, or modify decks (by adding or removing cards), StudyView allows users to study a given deck (chosen in UserView) by swiping left or right for each card, and UserView allows for change switch between dark and light mode and choose the deck they would like to study.
  
+## Resources
+
+- https://www.reddit.com/r/SwiftUI/comments/17aruvw/preview_with_binding_properties/
+- https://www.hackingwithswift.com/books/ios-swiftui/storing-user-settings-with-userdefaults
+- https://www.hackingwithswift.com/read/12/2/reading-and-writing-basics-userdefaults
+- https://bhoopendraumrao.medium.com/a-step-by-step-guide-to-implementing-collection-view-style-in-swiftui-db4c6989a4d
+- https://nilcoalescing.com/blog/EncodeAndDecodeSwiftUIColor/
+- https://www.hackingwithswift.com/quick-start/swiftui/how-to-let-users-select-a-color-with-colorpicker
+- https://sowenjub.me/writes/how-to-add-a-diagnostic-mode-using-settings-bundle-and-swiftui 
+
 
 
 
